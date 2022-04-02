@@ -101,6 +101,7 @@ pub use self::{
 };
 
 pub mod adaptors;
+pub mod markup;
 pub mod net;
 pub mod payloads;
 pub mod prelude;
